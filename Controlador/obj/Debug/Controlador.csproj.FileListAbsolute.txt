@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\bin\Debug\Controlador.exe
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\bin\Debug\Modelo.exe
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\bin\Debug\Modelo.exe.config
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\obj\Debug\Controlador.exe
+C:\Users\Administrador\source\repos\ConcesionarioAM\Controlador\obj\Debug\Controlador.pdb

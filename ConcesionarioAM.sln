@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista", "vista\vista.csproj", "{514A695E-9A53-417B-8732-7BA8719834AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{AAC97687-2BA1-485B-9E9D-82B52860C951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{2A57D340-F905-4FDD-A50A-C5EA742D5EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514A695E-9A53-417B-8732-7BA8719834AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514A695E-9A53-417B-8732-7BA8719834AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514A695E-9A53-417B-8732-7BA8719834AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514A695E-9A53-417B-8732-7BA8719834AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC97687-2BA1-485B-9E9D-82B52860C951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC97687-2BA1-485B-9E9D-82B52860C951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC97687-2BA1-485B-9E9D-82B52860C951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC97687-2BA1-485B-9E9D-82B52860C951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A57D340-F905-4FDD-A50A-C5EA742D5EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A57D340-F905-4FDD-A50A-C5EA742D5EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A57D340-F905-4FDD-A50A-C5EA742D5EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A57D340-F905-4FDD-A50A-C5EA742D5EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6DAF1F-59E2-4B41-9C07-C0B7144135A8}
+	EndGlobalSection
+EndGlobal
